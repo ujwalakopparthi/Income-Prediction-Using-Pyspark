@@ -57,9 +57,7 @@ Navigate to the project directory:
 cd income-prediction
 Run the notebook:
 jupyter notebook income_prediction.ipynb
-📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 🎉 Contribution
 
 Feel free to fork this project and contribute to improving it! 🚀
