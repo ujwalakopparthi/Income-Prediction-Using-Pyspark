@@ -103,11 +103,12 @@ This project evaluates the performance of different machine learning models usin
 
 ---
 
-##🔧 How to Run the Project
+## 🔧 How to Run the Project
+
 1. Clone the repository:
-```bash
-git clone https://github.com/ujwalakopparthi/Income-Prediction-Using-Pyspark.git
-```
+   ```bash
+   git clone https://github.com/ujwalakopparthi/Income-Prediction-Using-Pyspark.git
+
 2. Navigate to the project directory:
 ```bash
 cd income-prediction
